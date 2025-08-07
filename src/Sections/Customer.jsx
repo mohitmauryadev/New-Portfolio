@@ -47,7 +47,7 @@ const Customer = () => {
       <div className="absolute right-0 top-10 h-full w-20 bg-gradient-to-l from-[#0D1F22] to-transparent z-10 pointer-events-none"/>
 
 
-            <div ref={scrollRef} className='cuslist w-[100%] pt-7 m-auto  flex overflow-x-auto justify-center items-center gap-32 hide-scrollbar'>
+            <div ref={scrollRef} className='cuslist w-[1200px] h-full pt-7 m-auto  flex overflow-x-auto justify-center items-center gap-32 hide-scrollbar'>
 
                 <div className='flex flex-col justify-center text-center w-[120px]'>
                     <img src={Ame1} className='w-[50px] h-[50px] m-auto rounded-[50%]' />
