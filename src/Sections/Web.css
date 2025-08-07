@@ -55,6 +55,10 @@
     background-color:rgb(0, 183, 183) ;
 }
 
+.Webimg{
+  width: 470px;
+}
+
 @media screen and (max-width:950px) {
     .WebCard{
    flex-direction: column-reverse;

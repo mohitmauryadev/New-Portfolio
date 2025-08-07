@@ -47,7 +47,7 @@ const Web = () => {
           <div className='Webknowbtn  rounded-3xl p-1.5 mt-8'> <button className=' p-1.5 rounded-2xl w-[120px] font-bold text-white'>Know More</button></div>
         </div >
 
-        <div className="w-[470]"><img src={WebDevelopment} className="Webimg rounded-2xl w-[470px]"/></div>
+        <div className="flex justify-center items-center"><img src={WebDevelopment} className="Webimg rounded-2xl "/></div>
       </div>
     </div>
   );

@@ -44,7 +44,7 @@ const Form = () => {
             <div className="bg-[#294044] p-6 md:w-1/2 border-white">
                 <h2 className="text-2xl font-bold text-white mb-4 ">Contact us</h2>
                 <form
-                    action="https://formsubmit.co/mohitmauryabbdu@gmail.com"
+                    action="https://formsubmit.co/manojkumar227807@bbdu.ac.in"
                     method="POST"
                     className="space-y-4"
                 >

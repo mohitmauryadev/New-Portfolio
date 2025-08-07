@@ -38,7 +38,7 @@ const Apk = () => {
                 onMouseLeave={handleMouseLeave}
             >
 
-                <div className="w-[470]"><img src={AppDevelopment} className="Appimg rounded-2xl w-[470px]" /></div>
+                <div className="flex justify-center items-center"><img src={AppDevelopment} className="Appimg rounded-2xl " /></div>
 
                 <div className="w-[30%] containttext">
                     <h1 className="text-2xl font-bold AppH">Android App Development</h1>
