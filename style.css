@@ -1,0 +1,34 @@
+/* 
+
+.card {
+  position: relative;
+  width: 90%;
+  height: 500px;
+  background: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 15px 25px rgb(0, 255, 255);
+  color: #fff;
+  padding: 20px;
+  transition: transform 0.15s ease;
+  transform-style: preserve-3d;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  left: var(--x, 50%);
+  top: var(--y, 50%);
+  width: var(--width, 0);
+  height: var(--height, 0);
+  background: radial-gradient(ellipse closest-side, rgba(3, 254, 246, 0.335), transparent);
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  pointer-events: none;
+  transition: width 0.2s ease, height 0.2s ease;
+}
+
+.card:hover::before {
+  --width: 280px;   
+  --height: 200px;  
+} */
