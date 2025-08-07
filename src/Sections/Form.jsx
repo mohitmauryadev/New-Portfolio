@@ -53,7 +53,7 @@ const Form = () => {
                     <input
                         type="hidden"
                         name="_next"
-                        value="https://yourwebsite.com/thank-you"
+                        value="https://mohitmauryadev.github.io/New-Portfolio/thank-you"
                     />
                     <input
                         type="text"
