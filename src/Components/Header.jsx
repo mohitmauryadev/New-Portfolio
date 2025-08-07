@@ -1,6 +1,4 @@
 
-import React from 'react'
-
 const scrollToSection = (id) => {
     const section = document.getElementById(id);
 
