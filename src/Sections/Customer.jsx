@@ -17,7 +17,7 @@ const Customer = () => {
  const scrollRef = useRef(null);
   useEffect(() => {
     const scrollContainer = scrollRef.current;
-    let scrollSpeed = 3;
+    let scrollSpeed = 30;
 
     const scroll = () => {
       if (scrollContainer) {
